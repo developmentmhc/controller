@@ -1,0 +1,4 @@
+variables:
+- team: developmentmhc
+- admin-user: hoongcuong-admin
+- manager-user: hoongcuong
